@@ -1,1 +1,1 @@
-One click install
+[One click install](https://pages.github.com/)
