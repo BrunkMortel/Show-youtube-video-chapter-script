@@ -30,7 +30,7 @@ function init(){
     }
 
     div.appendChild(span);
-    videoview.appendChild(div);
+    videoview.insertAdjacentElement('afterbegin', div);
 
     Loop();
 }
@@ -56,7 +56,7 @@ function Loop() {
             }
 
             div.appendChild(span);
-            videoview.appendChild(div);
+            videoview.insertAdjacentElement('afterbegin', div);
         }
         else{
             var title = document.getElementById("scriptVODChapterSpan");
