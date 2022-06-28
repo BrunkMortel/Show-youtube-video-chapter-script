@@ -1,1 +1,1 @@
-[One click install](https://pages.github.com/)
+[One click install](https://github.com/BrunkMortel/Show-youtube-video-chapter-script/blob/main/ShowYoutubeVideoChapter.user.js)
