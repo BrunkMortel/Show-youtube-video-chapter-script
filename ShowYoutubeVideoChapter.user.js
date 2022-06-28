@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Show the current youtube video chapter name, made for JimmyBoyyy
 // @author       Brunk_Mortel
-// @match        https://www.youtube.com/watch?v=*
+// @match        https://www.youtube.com/watch*
 // @grant        none
 // ==/UserScript==
 
